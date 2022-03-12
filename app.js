@@ -8,7 +8,7 @@ const photoController = require('./controllers/photoController');
 const pageController = require('./controllers/pageController');
 
 const dbURI =
-  'mongodb+srv://Zeyneptilbe:test1234@cluster1.4hzpo.mongodb.net/pcat-test-db';
+  '';
 
 const app = express();
 
